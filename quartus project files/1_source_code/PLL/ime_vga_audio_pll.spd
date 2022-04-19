@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simPackage>
+ <file path="ime_vga_audio_pll_sim/ime_vga_audio_pll.vho" type="VHDL" />
+ <topLevel name="ime_vga_audio_pll" />
+ <deviceFamily name="cyclonev" />
+</simPackage>
