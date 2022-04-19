@@ -1,0 +1,43 @@
+# Faux model
+set_global_assignment -name SEARCH_PATH "../1_source_code/Faux"
+set_global_assignment -name VHDL_FILE Der_Faux_FPGA_pkg.vhd
+set_global_assignment -name VHDL_FILE SimpleDualPortRAM_singlebit.vhd
+set_global_assignment -name VHDL_FILE Shift_register.vhd
+set_global_assignment -name VHDL_FILE Comparator_Logic.vhd
+set_global_assignment -name VHDL_FILE Difference1.vhd
+set_global_assignment -name VHDL_FILE Difference3.vhd
+set_global_assignment -name VHDL_FILE Difference4.vhd
+set_global_assignment -name VHDL_FILE Difference5.vhd
+set_global_assignment -name VHDL_FILE Difference6.vhd
+set_global_assignment -name VHDL_FILE Difference7.vhd
+set_global_assignment -name VHDL_FILE Difference8.vhd
+set_global_assignment -name VHDL_FILE Difference9.vhd
+set_global_assignment -name VHDL_FILE Difference10.vhd
+set_global_assignment -name VHDL_FILE Difference11.vhd
+set_global_assignment -name VHDL_FILE Difference12.vhd
+set_global_assignment -name VHDL_FILE Difference13.vhd
+set_global_assignment -name VHDL_FILE Z22_circuit.vhd
+set_global_assignment -name VHDL_FILE Z24_circuit.vhd
+set_global_assignment -name VHDL_FILE Z25_circuit.vhd
+set_global_assignment -name VHDL_FILE Z23_circuit.vhd
+set_global_assignment -name VHDL_FILE Der_Faux_FPGA_tc.vhd
+set_global_assignment -name VHDL_FILE Der_Faux_FPGA.vhd
+
+# Peripherals
+set_global_assignment -name SEARCH_PATH "../1_source_code/Peripherals"
+set_global_assignment -name VHDL_FILE Seven_segment_poti_display.vhd
+set_global_assignment -name VHDL_FILE ADC_ltc2308_Interface.vhd
+set_global_assignment -name VHDL_FILE codec_if.vhd
+set_global_assignment -name VHDL_FILE codec_i2c_config.vhd
+set_global_assignment -name VHDL_FILE codec_i2c_ctrl.vhd
+set_global_assignment -name VHDL_FILE codec_i2c_top_struct.vhd
+
+# Others
+set_global_assignment -name SEARCH_PATH "../1_source_code/Others"
+set_global_assignment -name VHDL_FILE ime_reset.vhd
+
+# PLL
+set_global_assignment -name QIP_FILE ../1_source_code/PLL/ime_vga_audio_pll.qip
+
+# Top File
+set_global_assignment -name VHDL_FILE ../1_source_code/The_Faux_Project_top.vhd
