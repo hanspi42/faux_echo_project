@@ -1,2 +1,3 @@
 FPGA: Electric guitar-> Line6 Helix (+12dB) -> FPGA -> Line6 Helix (+0dB) -> Ableton Live
 Faux: Electric guitar-> Line6 Helix (+12dB) -> Faux -> Line6 Helix (+0dB) -> Ableton Live
+Audio format: PCM 24bit, 48kHz (WAV)
