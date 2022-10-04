@@ -20,6 +20,9 @@
 * [Signalflowgrapher](https://github.com/hanspi42/signalflowgrapher)
 * [Ableton Live](https://www.ableton.com/de/live/)
 
+## Signal-Flow Graphs
+* [Video Course "Signal-Flow Graphs in 12 Short Lessons"](https://tube.switch.ch/channels/d206c96c)
+
 ## Project links
 * [FHNW Academy of Music](https://www.fhnw.ch/de/forschung-und-dienstleistungen/musik/hochschule-fuer-musik/projekte/authenticity-in-music-production)
 * [FHNW School of Engineering](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/research-projects/authenticity-in-music)
